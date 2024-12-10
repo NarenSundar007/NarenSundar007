@@ -24,8 +24,8 @@ I'm a tech enthusiast exploring **AI**, **Data Science**, and **Full-Stack Devel
 ---
 
 ## 📂 Key Projects
-- **Intelligent Enterprise Assistant**: AI chatbot for organizational efficiency using RAG.  
-- **Multiplayer Game with Voice Chat**: Real-time gaming with voice integration.  
+- **Portfolio Website**: A Personal Website showcasing my Projects and Expertise.  
+- **Multiplayer Game with Chat**: Real-time gaming with chat integration.  
 - **Dietary Recommendations**: Leukemia-focused RAG system powered by LLaMA 70B.  
 
 ---
